@@ -1,3 +1,3 @@
 # My-restaurant
 
-![Pizzeria](./Image/restaurant.png)
+![Pizzeria](./Image/Restaurant.png)
